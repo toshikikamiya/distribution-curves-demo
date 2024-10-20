@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/distribution-curves-demo/static/css/main.0dd8219d.css",
-    "main.js": "/distribution-curves-demo/static/js/main.0118311e.js",
+    "main.js": "/distribution-curves-demo/static/js/main.36c1338e.js",
     "index.html": "/distribution-curves-demo/index.html",
     "main.0dd8219d.css.map": "/distribution-curves-demo/static/css/main.0dd8219d.css.map",
-    "main.0118311e.js.map": "/distribution-curves-demo/static/js/main.0118311e.js.map"
+    "main.36c1338e.js.map": "/distribution-curves-demo/static/js/main.36c1338e.js.map"
   },
   "entrypoints": [
     "static/css/main.0dd8219d.css",
-    "static/js/main.0118311e.js"
+    "static/js/main.36c1338e.js"
   ]
 }

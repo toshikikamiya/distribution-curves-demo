@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/distribution-curves-demo/static/css/main.0dd8219d.css",
-    "main.js": "/distribution-curves-demo/static/js/main.36c1338e.js",
+    "main.js": "/distribution-curves-demo/static/js/main.fe7599fb.js",
+    "static/media/ImprovedRelativeFrequencyHistogramPolygonDemo": "/distribution-curves-demo/static/media/ImprovedRelativeFrequencyHistogramPolygonDemo.e101fb38565b278d388c",
     "index.html": "/distribution-curves-demo/index.html",
     "main.0dd8219d.css.map": "/distribution-curves-demo/static/css/main.0dd8219d.css.map",
-    "main.36c1338e.js.map": "/distribution-curves-demo/static/js/main.36c1338e.js.map"
+    "main.fe7599fb.js.map": "/distribution-curves-demo/static/js/main.fe7599fb.js.map"
   },
   "entrypoints": [
     "static/css/main.0dd8219d.css",
-    "static/js/main.36c1338e.js"
+    "static/js/main.fe7599fb.js"
   ]
 }
